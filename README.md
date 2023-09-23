@@ -44,32 +44,32 @@ Make sure that you have the following:
 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<!-- <p align="right">(<a href="#top">back to top</a>)</p>
+ -->
 ## Demo
-<p>
+
   <a><b>Movie Details</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Movie-Details.PNG" alt="">
   </a>
-</p>
+
 <br>
-<p>
+
     <a><b>Cast Details</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details.PNG" alt="">
   </a>
-</p>
+
 <br>
-<p>
+
     <a><b>Cast Details Extend</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details-Extend.PNG" alt="">
   </a>
-</p>
+
 <br>
-<p>
+
     <a><b>User Review</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/User-Review.PNG" alt="">
   </a>
-</p>
+
 
 
 [contri-shield]: https://img.shields.io/github/contributors-anon/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
