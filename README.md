@@ -49,24 +49,28 @@ Make sure that you have the following:
 ## Demo
 <p>
   <a><b>Movie Details</b><br>
+    <br>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Movie-Details.PNG" alt="">
   </a>
 </p>
 <br>
 <p>
     <a><b>Cast Details</b><br>
+      <br>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details.PNG" alt="">
   </a>
 </p>
 <br>
 <p>
-    <a><b>Cast Details Extend</b><br>s
+    <a><b>Cast Details Extends</b><br>
+      <br>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details-Extend.PNG" alt="">
   </a>
 </p>
 <br>
 <p>
     <a><b>User Review</b><br>
+      <br>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/User-Review.PNG" alt="">
   </a>
 </p>
