@@ -44,8 +44,8 @@ Make sure that you have the following:
 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<!-- <p align="right">(<a href="#top">back to top</a>)</p>
+ -->
 ## Demo
 <p align="left">
   <a class="image fit"><b>Movie Details</b>
@@ -85,4 +85,4 @@ Make sure that you have the following:
 [language-shield]: https://img.shields.io/github/languages/count/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
 [language-url]: #
 
-[product-screenshot]: media/Home.png
+[product-screenshot]: media/Home.PNG
