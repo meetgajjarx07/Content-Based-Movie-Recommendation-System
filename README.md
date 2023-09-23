@@ -47,26 +47,26 @@ Make sure that you have the following:
 <!-- <p align="right">(<a href="#top">back to top</a>)</p>
  -->
 ## Demo
-<p align="left">
-  <a><b>Movie Details</b>
+<p>
+  <a class="image fit"><b>Movie Details</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Movie-Details.PNG" alt="">
   </a>
 </p>
 <br>
-<p align="left">
-    <a><b>Cast Details</b>
+<p>
+    <a class="image fit"><b>Cast Details</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details.PNG" alt="">
   </a>
 </p>
 <br>
-<p align="left">
-    <a><b>Cast Details Extend</b>
+<p>
+    <a class="image fit"><b>Cast Details Extend</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details-Extend.PNG" alt="">
   </a>
 </p>
 <br>
-<p align="left">
-    <a><b>User Review</b>
+<p>
+    <a class="image fit"><b>User Review</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/User-Review.PNG" alt="">
   </a>
 </p>
