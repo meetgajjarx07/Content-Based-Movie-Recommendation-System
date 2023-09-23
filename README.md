@@ -48,25 +48,25 @@ Make sure that you have the following:
  -->
 ## Demo
 <p>
-  <a class="image fit"><b>Movie Details</b>
+  <a><b>Movie Details</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Movie-Details.PNG" alt="">
   </a>
 </p>
 <br>
 <p>
-    <a class="image fit"><b>Cast Details</b>
+    <a><b>Cast Details</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details.PNG" alt="">
   </a>
 </p>
 <br>
 <p>
-    <a class="image fit"><b>Cast Details Extend</b>
+    <a><b>Cast Details Extend</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details-Extend.PNG" alt="">
   </a>
 </p>
 <br>
 <p>
-    <a class="image fit"><b>User Review</b>
+    <a><b>User Review</b>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/User-Review.PNG" alt="">
   </a>
 </p>
