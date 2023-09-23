@@ -49,25 +49,25 @@ Make sure that you have the following:
 ## Demo
 <p align="left">
   <a class="image fit"><b>Movie Details</b>
-  	<img src="https://github.com/MaharshPatelX/Speechitive/blob/main/Media/Analytics-Video.png" alt="">
+  	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Movie-Details.PNG" alt="">
   </a>
 </p>
 <br>
 <p align="left">
     <a class="image fit"><b>Cast Details</b>
-  	<img src="https://github.com/MaharshPatelX/Speechitive/blob/main/Media/Wordcloud-Video.png" alt="">
+  	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details.PNG" alt="">
   </a>
 </p>
 <br>
 <p align="left">
     <a class="image fit"><b>Cast Details Extend</b>
-  	<img src="https://github.com/MaharshPatelX/Speechitive/blob/main/Media/Wordcloud-Video.png" alt="">
+  	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details-Extend.PNG" alt="">
   </a>
 </p>
 <br>
 <p align="left">
     <a class="image fit"><b>User Review</b>
-  	<img src="https://github.com/MaharshPatelX/Speechitive/blob/main/Media/Wordcloud-Video.png" alt="">
+  	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/User-Review.PNG" alt="">
   </a>
 </p>
 
@@ -85,4 +85,4 @@ Make sure that you have the following:
 [language-shield]: https://img.shields.io/github/languages/count/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
 [language-url]: #
 
-[product-screenshot]: Media/Home.png
+[product-screenshot]: media/Home.png
