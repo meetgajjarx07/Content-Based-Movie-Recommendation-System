@@ -44,8 +44,8 @@ Make sure that you have the following:
 
 
 
-<!-- <p align="right">(<a href="#top">back to top</a>)</p>
- -->
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Demo
 <p>
   <a><b>Movie Details</b>
