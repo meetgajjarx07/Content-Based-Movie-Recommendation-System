@@ -1,9 +1,9 @@
-# ibm-project-submission-2019-batch-meetgajjar18
+
 
 
 <br />
 <div align="center">
-<h1 align="center">DataMorph - GUI Based Machine Learning app</h3>
+<h1 align="center">Content Based Movie Recommendation System</h3>
 
 [![Languages][language-shield]][language-url]
 [![Contributors][contri-shield]][contri-url]
@@ -16,9 +16,9 @@
 
 ## About The Project
 
-![Capture](https://user-images.githubusercontent.com/57010227/234502891-78a53e47-5d85-4fe9-ad2e-2395a20be933.JPG)
+![Product Name Screen Shot][product-screenshot]
 
-The DataMorph web-application provides a GUI(Graphical User Interface) platform in which peoples who are data science enthusiasts can apply data cleaning methods on their datasets and perform machine learning techniques. The Data Morph also involves image cleaning and image pre-processing as well.
+Suggests movies based on features and user preferences using machine learning. Enhances user movie-watching experience by matching tastes.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -42,36 +42,47 @@ Make sure that you have the following:
 -  flask
 -  An environment to work in - something like Jupyter or Spyder
 
-### Installation :
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18
-   ```
-2. Install Python packages
-
-   ```sh
-    pip install -r requirements.txt
-    ```
-3. Run App File
-   ```sh
-    python run.py
-    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Demo
+<p align="left">
+  <a class="image fit"><b>Movie Details</b>
+  	<img src="https://github.com/MaharshPatelX/Speechitive/blob/main/Media/Analytics-Video.png" alt="">
+  </a>
+</p>
+<br>
+<p align="left">
+    <a class="image fit"><b>Cast Details</b>
+  	<img src="https://github.com/MaharshPatelX/Speechitive/blob/main/Media/Wordcloud-Video.png" alt="">
+  </a>
+</p>
+<br>
+<p align="left">
+    <a class="image fit"><b>Cast Details Extend</b>
+  	<img src="https://github.com/MaharshPatelX/Speechitive/blob/main/Media/Wordcloud-Video.png" alt="">
+  </a>
+</p>
+<br>
+<p align="left">
+    <a class="image fit"><b>User Review</b>
+  	<img src="https://github.com/MaharshPatelX/Speechitive/blob/main/Media/Wordcloud-Video.png" alt="">
+  </a>
+</p>
 
-[contri-shield]: https://img.shields.io/github/contributors/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18?style=for-the-badge
+
+[contri-shield]: https://img.shields.io/github/contributors-anon/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
 [contri-url]: #
 
 
-[size-shield]: https://img.shields.io/github/repo-size/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18?style=for-the-badge
+[size-shield]: https://img.shields.io/github/repo-size/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
 [size-url]: #
 
-[issues-shield]: https://img.shields.io/github/issues/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
 [issues-url]: #
 
-[language-shield]: https://img.shields.io/github/languages/count/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18?style=for-the-badge
+[language-shield]: https://img.shields.io/github/languages/count/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
 [language-url]: #
 
 [product-screenshot]: Media/Home.png
