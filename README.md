@@ -47,29 +47,29 @@ Make sure that you have the following:
 <!-- <p align="right">(<a href="#top">back to top</a>)</p>
  -->
 ## Demo
-
-  <a><b>Movie Details</b>
+<p>
+  <a><b>Movie Details</b><br>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Movie-Details.PNG" alt="">
   </a>
-
+</p>
 <br>
-
-    <a><b>Cast Details</b>
+<p>
+    <a><b>Cast Details</b><br>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details.PNG" alt="">
   </a>
-
+</p>
 <br>
-
-    <a><b>Cast Details Extend</b>
+<p>
+    <a><b>Cast Details Extend</b><br>s
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/Cast-Details-Extend.PNG" alt="">
   </a>
-
+</p>
 <br>
-
-    <a><b>User Review</b>
+<p>
+    <a><b>User Review</b><br>
   	<img src="https://github.com/meetgajjarx07/Content-Based-Movie-Recommendation-System/blob/master/media/User-Review.PNG" alt="">
   </a>
-
+</p>
 
 
 [contri-shield]: https://img.shields.io/github/contributors-anon/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
