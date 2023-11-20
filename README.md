@@ -75,6 +75,11 @@ Make sure that you have the following:
   </a>
 </p>
 
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 [contri-shield]: https://img.shields.io/github/contributors-anon/meetgajjarx07/Content-Based-Movie-Recommendation-System?style=for-the-badge
 [contri-url]: #
